@@ -6,7 +6,7 @@ const Hero3 = ()=>{
                 <div className="bg-gradient-to-br from-violet-950 to-fuchsia-950 flex md:flex-row flex-col justify-center md:w-full h-fit w-full py-12 overflow-x-hidden">
             <div className="md:flex">
                <div className="bg-white h-56 w-72 mx-12 md:h-auto md:w-2/5"></div>
-               <div className="md:flex md:flex-col">
+               <div className="md:flex md:flex-col md:w-1/2">
                <div className="font-bold md:text-5xl text-3xl text-white md:py-6 px-10 py-4">Exciting Fest Highlights Await</div>
                <div className="text-zinc-400 text-xs md:text-base px-10">Join us for a thrilling celebration of Technology and culture at Corona and Melange, the Annual fest of NIT Patna.Experience wide range of events, workshops, performances, and more.</div>
                
