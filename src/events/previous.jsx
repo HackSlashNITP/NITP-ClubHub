@@ -24,7 +24,7 @@ function Previous() {
 						</div>
 					</div>
 					<div dir="ltr" className="flex w-full">
-						<div className="bg-white h-124 w-96 mr-12 "></div>
+						<div className="bg-white h-124 w-2/4 mr-6 "></div>
 						<div dir="ltr" className="flex-col">
 							<div className="bg-white h-56 w-96 mb-8"></div>
 							<div className="bg-white h-56 w-96"></div>
