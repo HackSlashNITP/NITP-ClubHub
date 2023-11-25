@@ -1,0 +1,52 @@
+ body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    background-image: url(./img/proj.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+
+ }
+  
+ .whites{
+  display: flex;
+ }
+  .whites1{
+  background-image: url(./img/bg.jpg);
+  margin-top: 70px;
+   width: 569px;
+  height: 859px;
+   margin-bottom: 70px;
+    margin-right: 40px; 
+    margin-left: 200px;
+   
+ } 
+
+
+.whites2{
+  background-image: url(./img/bg.jpg);
+ 
+  width: 655px;
+  height: 390px;
+  margin-bottom: 70px;
+ margin-right: 490px;
+ 
+ 
+  margin-top: 70px;
+  
+    
+  }
+  .whites3{
+    background-image: url(./img/bg.jpg);
+   
+    width: 655px;
+    height: 390px;
+    margin-bottom: 170px;
+    margin-right: 490px; 
+   
+    margin-top: 70px;
+    
+      
+    }
+  
+  
+  
