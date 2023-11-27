@@ -3,21 +3,21 @@
     background-image: url(./img/proj.jpg);
     background-repeat: no-repeat;
     background-size:cover;
-    
-
+    width: 100%;
  }
   
  .whites{
   display: flex;
+  margin-left: 90px;
  }
+
   .whites1{
   background-image: url(./img/bg.jpg);
   margin-top: 70px;
-   width: 569px;
-  height: 859px;
-   margin-bottom: 70px;
-    margin-right: 40px; 
-    margin-left: 200px;
+  width: 600px;
+  height: 660px;
+   margin-bottom: 30px;
+   margin-right: 30px; 
    
  } 
 
@@ -25,12 +25,10 @@
 .whites2{
   background-image: url(./img/bg.jpg);
  
-  width: 655px;
-  height: 390px;
-  margin-bottom: 70px;
- margin-right: 490px;
- 
- 
+  width: 600px;
+  height: 320px;
+  margin-bottom: 20px;
+  margin-right: 350px;
   margin-top: 70px;
   
     
@@ -38,12 +36,11 @@
   .whites3{
     background-image: url(./img/bg.jpg);
    
-    width: 655px;
-    height: 390px;
-    margin-bottom: 170px;
-    margin-right: 490px; 
-   
-    margin-top: 70px;
+    width: 600px;
+    height: 320px;
+    margin-bottom: 70px;
+    margin-right: 350px; 
+    margin-top: 20px; 
     
       
     }
