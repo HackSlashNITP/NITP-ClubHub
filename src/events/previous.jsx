@@ -25,9 +25,9 @@ function Previous() {
 					</div>
 					<div dir="ltr" className="flex w-full">
 						<div className="bg-white h-124 w-2/4 mr-6 "></div>
-						<div dir="ltr" className="flex-col">
-							<div className="bg-white h-56 w-96 mb-8"></div>
-							<div className="bg-white h-56 w-96"></div>
+						<div dir="ltr" className="flex-col w-2/4">
+							<div className="bg-white h-56 w-full mb-8"></div>
+							<div className="bg-white h-56 w-full"></div>
 						</div>
 					</div>
 					{/* <div className="whitess flex md:flex-row md:w-full h-fit w-full py-12 overflow-x-hidden">
