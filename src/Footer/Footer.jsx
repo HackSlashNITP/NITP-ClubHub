@@ -4,7 +4,7 @@ import { BsFacebook, BsInstagram, BsLinkedin, BsYoutube } from 'react-icons/bs';
 import { FaXTwitter } from 'react-icons/fa6';
 const Footer = () => {
     return (
-        <div className='px-12 h-full w-full overflow-hidden'>
+        <div className='px-12 h-full w-full overflow-hidden bg-violet-200'>
             <div className='flex flex-col md:flex-row pt-8'>
                 <div className="md:w-1/2 w-2/5">
                     <img className='h-48 w-56' src={logo} alt="logo" />

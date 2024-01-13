@@ -8,6 +8,7 @@ import Hero5 from "./Hero5.jsx";
 import Hero3 from "./hero3.jsx";
 import HomePage from "./pages/homePage.jsx";
 import Navbar from "./Navbar.jsx";
+import ClubCard from "./macbook-pro-2/ClubCard.jsx";
 function App() {
   const [count, setCount] = useState(0);
   return (
@@ -20,6 +21,7 @@ function App() {
        <Hero5/>
        <Previous/>
        <Footer />
+       <ClubCard />
     </>
     
   );
